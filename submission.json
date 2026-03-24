@@ -1,0 +1,8 @@
+{
+  "prompt": "A vast, majestic ancient library deeply embedded in nature, with warm golden lighting. But thousands of ancient books, scrolls, and glowing symbols are violently dissolving into fine, unreadable desert sand and ash, slipping through the air, and dissipating away into the wind forever. The scene evokes a deep, haunting sense of loss and the irreversible disappearance of unique human culture and indigenous knowledge. Cinematic lighting, melancholic, surrealism, sharp detail, evocative visual metaphor, no text whatsoever.",
+  "model": "Imagen 3",
+  "dataset_name": "UNESCO Atlas of the World's Languages in Danger",
+  "dataset_url": "http://www.unesco.org/languages-atlas/",
+  "insight": "Roughly one indigenous human language dies completely every two weeks, erasing entirely unique ways of understanding the world.",
+  "publish_email": true
+}
